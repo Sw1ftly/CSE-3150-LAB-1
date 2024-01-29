@@ -11,7 +11,7 @@ HOW TO RUN UNIT TESTS:
 
 - copy all files and put into same directory/folder
 - main_prefix_sum.cpp will not really be used but I included it since it was part of the lab lecture
-- cd into correct dircetory
+- cd into correct directory
 - now input following instructions :   g++ unit_tests_prefix_sum.cpp prefix_sum.cpp
 - press enter and let compile
 - then simply type:     ./a.out
